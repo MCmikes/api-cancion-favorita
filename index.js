@@ -5,7 +5,7 @@ app.get('/', (req, res) => {
     res.json(
         {
             nombre: "Miguel Angel Sac Hernández",
-            cancionFavorita: "Dos Pasos - El clubo"
+            albumFavorito: "Sobredosis"
         }
     );
 });
